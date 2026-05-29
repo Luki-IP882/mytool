@@ -6,9 +6,17 @@ A lightweight and simple Python-based CLI tool designed for quick network and us
 This tool provides fast IP information lookup and basic Instagram profile access via a clean terminal interface.
 
 🌐 IP Address Lookup (country, city, ISP, organization, timezone)
+
+
 📸 Instagram username profile link generator
+
+
 🎨 Clean and colorful terminal interface
+
+
 ⚡ Fast and lightweight execution
+
+
 🐍 Built with pure Python (no heavy dependencies)
 
 
