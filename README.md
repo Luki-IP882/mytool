@@ -26,8 +26,5 @@ pip install requests
 
 cd mytool
 
-python3 tool.py
 
-or
-
-python3 main py
+ (python3 main.py )
